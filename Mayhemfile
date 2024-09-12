@@ -1,0 +1,5 @@
+project: zek
+target: zek
+cmds:
+  - cmd: /zek @@
+    env: {}
